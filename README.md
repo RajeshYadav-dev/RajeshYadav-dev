@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Spring boot Hibernate and frontend**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Rajeshyadav0565/Rajeshyadav0565](https://github.com/Rajeshyadav0565/Rajeshyadav0565)
+- 👨‍💻 All of my projects are available at [https://github.com/Rajeshyadav0565](https://github.com/Rajeshyadav0565/Rajeshyadav0565)
 
 - 💬 Ask me about **java spring boot hibernate**
 
