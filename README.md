@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajeshyadav0565&label=Profile%20views&color=0e75b6&style=flat" alt="rajeshyadav0565" /> </p>
 
-- 🌱 I’m currently learning **Spring boot Hibernate and frontend**
+- 🌱 I’m currently learning **Spring boot Hibernate and reactJs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rajeshyadav0565](https://github.com/Rajeshyadav0565/Rajeshyadav0565)
 
@@ -13,9 +13,9 @@
 
 - 📫 How to reach me **rajeshyadav0565@gmail.com**
 
-- 📄 Know about my experiences [1.5 years of experience in software developer](1.5 years of experience in software developer)
+- 📄 Know about my experiences [1.5 years of experience in software developer]
 
-- ⚡ Fun fact **In am little bit with serious programmer**
+- ⚡ Fun fact **I am little bit funny with serious programmer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
